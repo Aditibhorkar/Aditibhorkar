@@ -1,5 +1,6 @@
+![logo](https://github.com/Aditibhorkar/Aditibhorkar/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aditi Bhorkar</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
@@ -7,7 +8,7 @@
 
 - 🔭 I’m currently working on **Employee Management System**
 
-- 🌱 I’m currently learning **Advance java**
+- 🌱 I’m currently learning **Java frameworks**
 
 - 📫 How to reach me **aditibhorkar4280@gmail.com**
 
