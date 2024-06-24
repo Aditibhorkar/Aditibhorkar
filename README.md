@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditibhorkar&label=Profile%20views&color=0e75b6&style=flat" alt="aditibhorkar" /> </p>
 
-- 🔭 I’m currently working on **Employee Management System**
+- 🔭 I’m currently working on **Hotel Management System using jdbc,servlet,jsp**
 
 - 🌱 I’m currently learning **Java frameworks**
 
